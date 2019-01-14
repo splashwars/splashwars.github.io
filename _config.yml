@@ -4,18 +4,20 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            The Splash Blog
+browser_title:    Splash Blog
+tagline:          'The official Splash Wars blog'
+description:      'The official blog for Splash Wars, the splashy car combat game.'
 url:              http://hyde.getpoole.com
 baseurl:          /
+steam_link:       https://store.steampowered.com/app/989720/Splash_Wars/
+discord_link:     https://invite.gg/splashwars
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Feliciano Santana'
+  url:            https://thenameisflic.com
 
 paginate:         5
 
@@ -24,3 +26,5 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+plugins: [jekyll-paginate, jekyll-gist]
