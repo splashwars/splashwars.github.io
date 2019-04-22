@@ -11,7 +11,7 @@ browser_title:    Splash Blog
 tagline:          'The official Splash Wars blog'
 description:      'The official blog for Splash Wars, the splashiest car combat game.'
 url:              https://blog.splashwars.io
-baseurl:          https://blog.splashwars.io/
+baseurl:          /
 steam_link:       https://store.steampowered.com/app/989720/Splash_Wars/
 discord_link:     https://invite.gg/splashwars
 
