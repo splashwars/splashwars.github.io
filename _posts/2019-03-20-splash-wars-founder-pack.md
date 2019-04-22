@@ -8,7 +8,7 @@ image: assets/founder-pack.png
 ![Splash Wars Cars](/assets/founder-pack.png)
 
 The first Splash Wars Expansion pack has arrived!
-Available until *April 5th* for only **$9,99**. Click below to buy.
+Available until *April 2nd* for only **$9,99**. Click below to buy.
 
 {% include buyfounderpack.html %}
 
